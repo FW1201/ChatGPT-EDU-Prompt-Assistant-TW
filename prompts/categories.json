@@ -1,0 +1,185 @@
+[
+  {
+    "id": "teaching",
+    "name": {
+      "zh": "教師教學",
+      "en": "Teaching & instruction"
+    },
+    "count": 12,
+    "tool": "general",
+    "sources": [
+      "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "parents",
+    "name": {
+      "zh": "親師溝通",
+      "en": "Parent communication"
+    },
+    "count": 10,
+    "tool": "general",
+    "sources": [
+      "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "admin",
+    "name": {
+      "zh": "教育行政",
+      "en": "School administration"
+    },
+    "count": 12,
+    "tool": "general",
+    "sources": [
+      "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "learning",
+    "name": {
+      "zh": "學生學習",
+      "en": "Student learning"
+    },
+    "count": 16,
+    "tool": "general",
+    "sources": [
+      "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "mandarin",
+    "name": {
+      "zh": "華語文教學",
+      "en": "Mandarin teaching"
+    },
+    "count": 16,
+    "tool": "general",
+    "sources": [
+      "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "research",
+    "name": {
+      "zh": "深度研究指令",
+      "en": "Deep research"
+    },
+    "count": 16,
+    "tool": "research",
+    "sources": [
+      "https://help.openai.com/en/articles/10500283-deep-research"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "coding",
+    "name": {
+      "zh": "程式編寫指令",
+      "en": "Programming with Canvas"
+    },
+    "count": 18,
+    "tool": "canvas",
+    "sources": [
+      "https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "images",
+    "name": {
+      "zh": "創意設計指令",
+      "en": "Image creation & editing"
+    },
+    "count": 18,
+    "tool": "images",
+    "sources": [
+      "https://help.openai.com/en/articles/11084440-images-in-chatgpt"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "study",
+    "name": {
+      "zh": "引導學習指令",
+      "en": "Guided study"
+    },
+    "count": 16,
+    "tool": "study",
+    "sources": [
+      "https://openai.com/index/chatgpt-study-mode/"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "visual",
+    "name": {
+      "zh": "互動視覺化指令",
+      "en": "Interactive visualizations"
+    },
+    "count": 10,
+    "tool": "canvas",
+    "sources": [
+      "https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "search",
+    "name": {
+      "zh": "網路搜尋與查證",
+      "en": "Web search & verification"
+    },
+    "count": 12,
+    "tool": "search",
+    "sources": [
+      "https://help.openai.com/en/articles/9237897-chatgpt-search"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "data",
+    "name": {
+      "zh": "檔案與資料分析",
+      "en": "Files & data analysis"
+    },
+    "count": 16,
+    "tool": "data",
+    "sources": [
+      "https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt",
+      "https://help.openai.com/en/articles/8555545-file-uploads-faq"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "projects",
+    "name": {
+      "zh": "Projects 專案工作流程",
+      "en": "Projects workflows"
+    },
+    "count": 12,
+    "tool": "projects",
+    "sources": [
+      "https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  },
+  {
+    "id": "writing",
+    "name": {
+      "zh": "寫作與文件協作",
+      "en": "Writing with Canvas"
+    },
+    "count": 12,
+    "tool": "canvas",
+    "sources": [
+      "https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it"
+    ],
+    "verification": "official-docs-reviewed-2026-10-22"
+  }
+]

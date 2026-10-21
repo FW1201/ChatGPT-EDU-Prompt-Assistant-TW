@@ -1,0 +1,114 @@
+/* Strict black/white palette. Surfaces, borders and states use the same two inks. */
+:root {
+  color-scheme:light;--bg:#fff;
+  --text:#000;--line:#000;--button:#000;--button-text:#fff;--focus:#000;
+  font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC',sans-serif;
+  font-size:16px;line-height:1.6;
+}
+@media(prefers-color-scheme:dark) {
+  :root:not([data-theme=light]) {color-scheme:dark;--bg:#000;--text:#fff;--line:#fff;--button:#fff;--button-text:#000;--focus:#fff;--warn:#fff}
+}
+:root[data-theme=dark] {color-scheme:dark;--bg:#000;--text:#fff;--line:#fff;--button:#fff;--button-text:#000;--focus:#fff;--warn:#fff}
+* {box-sizing:border-box}
+body {margin:0;height:100vh;height:100dvh;display:flex;flex-direction:column;background:var(--bg);color:var(--text)}
+header {display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:12px;padding:16px;background:var(--button);color:var(--button-text);flex-shrink:0}
+h1,h2,h3,p {overflow-wrap:anywhere}
+h1 {margin:0;font-size:1rem;font-weight:650;line-height:1.4}
+h2 {margin:0;font-size:1.25rem;font-weight:650;line-height:1.4;text-align:center}
+h3 {margin:0;font-size:1rem;font-weight:650}
+p {margin:12px 0}
+main {flex:1;min-height:0;overflow:auto;padding:20px 16px;scrollbar-width:thin;scrollbar-color:var(--text) var(--bg)}
+button,input,select,textarea,summary,label,small {font:inherit;color:inherit}
+button {display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;min-width:44px;max-width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--text);font-size:1rem;line-height:1.5;text-align:center;cursor:pointer;touch-action:manipulation}
+button:hover,button:active {background:var(--button);color:var(--button-text)}
+button:disabled {cursor:wait;border-style:dashed}
+button:disabled::after {content:'…'}
+button.primary,button.primary:hover {background:var(--button);color:var(--button-text);border-color:var(--button);font-weight:600}
+:focus-visible {outline:3px solid var(--focus);outline-offset:3px}
+header :focus-visible {outline-color:var(--button-text)}
+.ui-icon,.icon svg {display:block;width:20px;height:20px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round}
+.icon {width:44px;height:44px;padding:11px;flex-shrink:0}
+.icon[aria-pressed=true] svg {fill:currentColor}
+.actions {display:flex;align-items:center;justify-content:center;gap:8px}
+header button {border:1px solid var(--button-text);background:var(--button);color:var(--button-text)}
+header button:hover {background:var(--button-text);color:var(--button)}
+#language {padding-inline:8px;gap:6px}
+input,select,textarea {width:100%;min-width:0;min-height:48px;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--text);font-size:1rem;line-height:1.6}
+input::placeholder,textarea::placeholder {color:var(--text);opacity:1}
+textarea {min-height:96px;resize:vertical}
+textarea[readonly] {border-style:dashed}
+#library {display:grid;gap:16px}
+.toolbar {display:grid;gap:12px}
+.search-control {position:relative}
+#search-icon {position:absolute;inset-inline-start:14px;top:50%;transform:translateY(-50%);pointer-events:none}
+#search {padding-inline-start:44px}
+.filter-row {position:relative;display:grid;grid-template-columns:minmax(0,1fr) 44px;gap:8px;align-items:stretch}
+.filter-row select {appearance:none;padding-inline-end:48px}
+.filter-row::after {content:'';position:absolute;inset-inline-end:74px;top:50%;width:8px;height:8px;border-inline-end:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:translateY(-70%) rotate(45deg);pointer-events:none}
+.filter-row .icon {height:48px}
+.results-meta {display:none}
+#guidance:empty {display:none}
+.muted,small {color:var(--text);font-size:1rem;line-height:1.6}
+.prompt-list {display:grid;grid-template-columns:minmax(0,1fr);gap:10px}
+.prompt-card {display:grid;grid-template-columns:minmax(0,1fr) 44px;gap:8px;align-items:stretch;min-width:0}
+.prompt-card .prompt-open {border:1px solid var(--line);border-radius:10px;min-width:0;min-height:48px;padding:10px 12px;overflow-wrap:anywhere;text-align:center}
+.prompt-name {font-size:1rem;font-weight:500;line-height:1.6}
+.prompt-card .actions {padding:0;gap:8px}
+.prompt-card .actions button {border:1px solid var(--line);border-radius:10px;width:44px;height:100%;min-height:44px;padding:11px}
+.prompt-card:has(.actions>:nth-child(2)) {grid-template-columns:minmax(0,1fr)}
+.prompt-card:has(.actions>:nth-child(2)) .actions {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.prompt-card:has(.actions>:nth-child(2)) .actions button {width:100%}
+.prompt-card:has(.conflict) .prompt-open {flex-direction:column}
+.conflict {color:var(--text)}
+.view-heading {display:grid;grid-template-columns:44px minmax(0,1fr) 44px;align-items:center;gap:8px;margin-bottom:24px}
+.view-heading::after {content:''}
+.view-heading:has(.help-button)::after {display:none}
+.back {margin:0}
+.hint {padding:12px;margin:0 0 20px;border:1px solid var(--line);border-radius:8px;font-size:1rem;overflow-wrap:anywhere}
+summary {min-height:32px;cursor:pointer;font-weight:500}
+.hint details {margin-top:12px}
+a {color:var(--text);text-underline-offset:3px}
+.field {display:grid;gap:8px;margin:20px 0}
+.field>span,label {font-size:1rem;font-weight:500;overflow-wrap:anywhere}
+.preview-section {margin-top:24px;padding-block:12px;border-top:1px solid var(--line);}
+.preview-section .field {margin:12px 0 0}
+.preview {min-height:180px;max-height:300px;white-space:pre-wrap}
+.view-actions {position:sticky;bottom:-20px;z-index:2;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch;gap:8px;margin-top:24px;padding:12px 0;background:var(--bg);border-top:1px solid var(--line)}
+.view-actions .icon {height:auto}
+.view-actions.compact-actions {grid-template-columns:repeat(2,44px);justify-content:end}
+.view-actions button {width:100%;padding-inline:8px}
+#view>button:not(.back),#view>form>button,#guidance>button {width:100%}
+.section {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:12px 8px;border-top:1px solid var(--line);padding-top:24px;margin-top:24px}
+.section>p,.section>h3,.section>ul {grid-column:1/-1;margin:0}
+.section>p:empty {display:none}
+.section>button {width:100%;margin:0}
+.section>button:last-child:nth-of-type(odd) {grid-column:1/-1}
+#view:has(#theme)>form>button {width:100%}
+footer {flex-shrink:0;padding:12px 16px;border-top:1px solid #000;background:#000;color:#fff}
+#feedback {border:1px solid var(--line);border-radius:8px;padding:12px;margin-bottom:16px;overflow-wrap:anywhere}
+#feedback p {margin:0}
+#feedback button,#feedback textarea {margin-top:8px;width:100%}
+dialog {width:360px;max-width:calc(100% - 32px);max-height:85dvh;overflow:auto;padding:24px;border:2px solid var(--line);border-radius:12px;background:var(--bg);color:var(--text)}
+dialog::backdrop {background:#000}
+dialog .actions {display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+dialog .actions button {width:100%}
+.source-list {padding-left:20px;overflow-wrap:anywhere}
+.source-list a {word-break:break-word}
+.empty {padding:24px 8px;text-align:center}
+button,input,select,textarea {scroll-margin:16px}
+.sr-only {position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+[hidden] {display:none!important}
+@media(max-width:340px) {
+  header,main,footer {padding-inline:12px}
+  h1 {font-size:1rem}
+  header .actions {gap:4px}
+  #language .ui-icon {display:none}
+}
+@media(prefers-reduced-motion:reduce) {*,*::before,*::after {transition:none!important;scroll-behavior:auto!important}}
+
+.credit {font-size:.875rem;line-height:1.5;text-align:center;overflow-wrap:anywhere}
+.credit a {color:#fff;text-decoration:underline;text-underline-offset:3px}
+.help-heading {display:grid;grid-template-columns:minmax(0,1fr) 44px;gap:8px;align-items:center;margin-bottom:16px}
+.help-heading h2 {text-align:left;font-size:1.125rem}
+#help-body>.hint {border:0;margin:0;padding:0}
+#help-body>.hint>summary {display:none}

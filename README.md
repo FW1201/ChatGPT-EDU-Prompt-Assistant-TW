@@ -1,99 +1,60 @@
-# ChatGPT EDU Prompt Assistant
+# ChatGPT EDU Prompt
 
-為台灣教育場域設計的 ChatGPT 提示詞模板擴充功能，提供豐富的教育提示詞庫，支援中英文雙語介面。
+數位敘事力期刊的教育提示詞 Chrome 側邊欄。14 類、196 則任務，每則提供繁體中文與英文版本；採 Manifest V3，不需 API Key、後端或編譯。
 
-## 🎯 功能特色
+## 使用
 
-- **雙語支援**：完整的中英文介面切換
-- **豐富提示詞庫**：涵蓋教師教學、學生學習、華語文教學等類別
-- **一鍵插入**：點擊即可將提示詞直接插入 ChatGPT 輸入框
-- **GPTs 指令生成**：支援生成結構化的 GPT 指令
-- **自定義提示詞**：支援新增、編輯、刪除個人提示詞
-- **Gemini API 優化**：內建提示詞優化功能
-- **黑白雙主題**：支援亮色與暗色主題自動切換
-- **側邊欄介面**：不干擾原有 ChatGPT 使用體驗
+Chrome 116 以上：在 `chrome://extensions/` 開啟開發人員模式，載入解壓縮的擴充功能資料夾；正式安裝則由 Chrome Web Store 提供。
 
-## 📦 安裝方式
+1. 點擴充功能圖示開啟側邊欄，選分類、收藏或自訂；搜尋會跨全部分類。
+2. 點模板、填寫欄位、展開完整提示詞預覽。點右側「複製提示詞」圖示，將填妥內容自行貼到 ChatGPT。
+3. 文件圖示為「插入原文」：填入未套用欄位的模板原文。原聊天框已有草稿時需確認取代。送出均由使用者自行完成。
+4. 問號開啟使用說明與官方文件。設定可保存常用欄位、外觀、備份及清除全部填寫紀錄。
 
-### 手動安裝
-1. 下載此專案檔案
-2. 開啟 Chrome 瀏覽器，前往 `chrome://extensions/`
-3. 開啟「開發人員模式」
-4. 點擊「載入未封裝項目」
-5. 選擇專案資料夾
+「插入 ChatGPT」主按鈕與逐則清除按鈕已移除。點複製時保存上次填寫至本機。錯誤與複製備援顯示在內容區；底部僅保留期刊署名。剪貼簿受限時顯示可手動選取的文字框。
 
-## 🚀 使用方法
+## 功能與界線
 
-### 基本使用
-1. 前往 [ChatGPT](https://chat.openai.com/)
-2. 點擊瀏覽器工具列的擴充功能圖示
-3. 選擇所需的提示詞類別
-4. 點擊提示詞按鈕即可插入
+- 自訂提示詞新增、編輯、刪除、收藏、跨分類搜尋與中英切換；重複佔位符只填一次。
+- 自訂提示詞、收藏、常用欄位、語言與主題透過 Chrome 同步；填寫紀錄只存本機。
+- JSON 匯出及合併匯入；保留既有內容，常用欄位只補空白；備份不含填寫紀錄。
+- 自訂提示詞可產生優化指令並插入 ChatGPT，由使用者送出、讀取回覆並貼回編輯器。
+- 不讀聊天歷史、不擷取 AI 回覆、不自動送出、不附檔、不切換模型或啟動工具。
+- 原文插入支援 ChatGPT 對話頁；其他網站仍可瀏覽與複製。GPTs 編輯頁不支援。
+- 既有 2.0 資料與已遷移提示詞仍可讀取；不再執行 1.x 自動遷移或存取網站 localStorage。舊版更新前先備份自訂內容，不先移除舊安裝。
 
-### 語言切換
-- 在彈出視窗或側邊欄右上角點擊語言切換按鈕
-- 支援繁體中文和英文介面
+## 提示詞與鷹架
 
-### GPTs 指令模式
-- 在側邊欄選擇「GPTs 指令」模式
-- 插入的提示詞將自動轉換為結構化的 GPT 指令格式
+分類涵蓋教學、親師、行政、學生學習、華語文、研究、程式、圖像、引導學習、互動視覺化、搜尋、資料分析、Projects 與文件協作。
 
-### 自定義提示詞
-1. 在側邊欄選擇「自定義提示詞」類別
-2. 點擊「📝」按鈕設定 Gemini API Key
-3. 即可使用提示詞優化功能
+學習對話採先備診斷、一次一問、依回答調整、線索至局部示範、獨立表現後提示退場、新情境與自我解釋。教材設計要求示範、引導練習與獨立實作；工作流程模板要求來源、專用交付及可檢核結果。缺漏資料不得補造，正式用途由人員覆核。
 
-## 📚 提示詞類別
+[提示詞檢查矩陣](docs/prompt-quality.json) 包含全部 392 份在地化模板。結構檢查不代表每次 AI 回應正確，也不代表已完成教學成效實驗。
 
-### 中文版
-- **教師教學**：年度課程藍圖、單元逆向設計、差異化學習包
-- **學生學習**：學習計畫微調、反思日誌引導
-- **華語文教學**：教案撰寫、學習單製作、情境對話練習
+## 驗證與打包
 
-### 英文版
-- **Teaching & Instruction**：Annual Curriculum Blueprint, Unit Backward Design, Differentiated Learning Package
-- **Student Learning**：Learning Plan Adjustment, Reflection Journal Guide
-- **Chinese Language Teaching**：Lesson Plan Writing, Worksheet Creation, Situational Dialogue Practice
+Node.js 20.11+、Python 3；執行期無第三方套件。測試工具由 package-lock.json 鎖定。
 
-## 🔧 技術規格
-
-- **Manifest Version**: 3
-- **支援瀏覽器**: Chrome, Edge, 其他 Chromium 核心瀏覽器
-- **權限需求**: `activeTab`, `storage`
-- **適用網站**: `https://chat.openai.com/*`, `https://chatgpt.com/*`
-- **API 整合**: Gemini API (用於提示詞優化)
-
-## 🛡️ 隱私保護
-
-- 不收集任何個人資料
-- 不讀取瀏覽歷史或其他網站內容
-- 自定義提示詞僅儲存在本地瀏覽器
-- Gemini API Key 僅用於提示詞優化功能
-
-## 📝 檔案結構
-
-```
-ChatGPT Extension/
-├── 128.png              # 擴充功能圖示
-├── manifest.json        # 擴充功能配置檔
-├── popup.html           # 彈出視窗（雙語支援）
-├── popup.js             # 彈出視窗邏輯
-├── content.js           # 核心功能（雙語支援）
-└── README.md            # 說明文件
+```sh
+npm ci
+npx playwright install chromium
+npm test
+npm run audit
+npm run test:browser
+node tests/extension-smoke.cjs
+npm run package
 ```
 
-## 👨💻 開發者
+測試預設使用 macOS Chrome；以 `CHROME_PATH` 指定其他路徑。擴充功能實載測試須使用支援 `--load-extension` 的 Chrome for Testing／Chromium，以 `EXTENSION_CHROME_PATH` 指定路徑。可用 `PLAYWRIGHT_PATH` 指定既有 Playwright 模組位置。`QUICK=1` 只跑操作流程；完整驗證不設此變數。
 
-**數位敘事力期刊 吳奇**
+打包採固定白名單，16 個執行與授權檔案。`dist/chatgpt-edu-tw-2.0.0.zip` 上傳商店；`dist/chatgpt-edu-tw-2.0.0-submission-kit.zip` 是含說明與素材的提交資料包，不能當擴充功能 ZIP 上傳。雜湊在 dist/SHA256SUMS.txt。
 
-## 📄 授權條款
+## 發布與隱私
 
-MIT License
+[完整上傳說明](docs/chrome-web-store.md) · [中文文案](docs/store-listing-zh.md) · [English listing](docs/store-listing-en.md) · [隱私政策](docs/privacy.md) · [最終 review](docs/final-review.md)
 
-## 🤝 貢獻
+驗證分開記錄資料測試、瀏覽器模擬、MV3 實載與使用者帳號的證據。未完成項目見 [發布檢查](docs/release-checks.json)；可上傳檔案不等於已送審或已上架。
 
-歡迎提交 Issue 或 Pull Request 來改善此專案。
+## 開發者與來源
 
-## 📞 聯絡方式
-
-如有問題或建議，請透過 GitHub Issues 聯繫。
+Developed by [數位敘事力期刊](https://www.facebook.com/Journal.of.Digital.Narrative/)。MIT；來源見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。本工具為獨立開發，非 OpenAI 官方產品，未與 OpenAI 隸屬或合作；相關商標屬其權利人。

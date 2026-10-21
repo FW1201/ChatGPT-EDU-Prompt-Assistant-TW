@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-edu-prompt-tw",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/core-store.test.mjs",
+    "audit": "node scripts/audit.mjs",
+    "test:browser": "node tests/browser-regression.cjs",
+    "test:extension": "node tests/extension-smoke.cjs",
+    "package": "python3 scripts/package.py",
+    "verify": "npm test && npm run audit && npm run test:browser"
+  },
+  "devDependencies": {"playwright": "1.62.1"},
+  "engines": {"node": ">=20.11"}
+}

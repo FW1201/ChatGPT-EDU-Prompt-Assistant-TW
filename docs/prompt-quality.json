@@ -1,0 +1,3928 @@
+{
+  "date": "2026-10-22",
+  "templates": 196,
+  "localizedTemplates": 392,
+  "scope": "Structural and editorial safeguards; not an AI-output or classroom efficacy evaluation",
+  "results": [
+    {
+      "language": "zh",
+      "id": "teaching-01",
+      "name": "探究實作課程",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-02",
+      "name": "差異化文本",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-03",
+      "name": "分層作業設計",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-04",
+      "name": "遊戲化教學",
+      "category": "teaching",
+      "fields": 5,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-05",
+      "name": "評分規準設計",
+      "category": "teaching",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-06",
+      "name": "學生回饋撰寫",
+      "category": "teaching",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-07",
+      "name": "ADDIE教學設計",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-08",
+      "name": "學習單設計",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-09",
+      "name": "布魯姆提問",
+      "category": "teaching",
+      "fields": 1,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-10",
+      "name": "班級經營策略",
+      "category": "teaching",
+      "fields": 1,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-11",
+      "name": "專題題目建議",
+      "category": "teaching",
+      "fields": 1,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "teaching-12",
+      "name": "段考雙向細目表",
+      "category": "teaching",
+      "fields": 5,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-01",
+      "name": "親師溝通信",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-02",
+      "name": "親師座談會講稿",
+      "category": "parents",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-03",
+      "name": "班級群組公告",
+      "category": "parents",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-04",
+      "name": "個別學生溝通",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-05",
+      "name": "家長抱怨回應",
+      "category": "parents",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-06",
+      "name": "缺曠關懷通知",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-07",
+      "name": "成績表現說明",
+      "category": "parents",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-08",
+      "name": "活動通知同意書",
+      "category": "parents",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-09",
+      "name": "輔導特教轉介",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "parents-10",
+      "name": "學期末感謝信",
+      "category": "parents",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-01",
+      "name": "公文撰寫",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-02",
+      "name": "SOP流程設計",
+      "category": "admin",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-03",
+      "name": "校內公告撰寫",
+      "category": "admin",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-04",
+      "name": "會議紀錄整理",
+      "category": "admin",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-05",
+      "name": "計畫申請書",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-06",
+      "name": "成果報告書",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-07",
+      "name": "活動企劃書",
+      "category": "admin",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-08",
+      "name": "研習簽呈邀請函",
+      "category": "admin",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-09",
+      "name": "經費核銷說明",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-10",
+      "name": "評鑑佐證整理",
+      "category": "admin",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-11",
+      "name": "教育法規解讀",
+      "category": "admin",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "admin-12",
+      "name": "危機事件聲明",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-01",
+      "name": "多觀點比較",
+      "category": "learning",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-02",
+      "name": "跨領域整合",
+      "category": "learning",
+      "fields": 5,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-03",
+      "name": "論文大綱設計",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-04",
+      "name": "論點句撰寫",
+      "category": "learning",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-05",
+      "name": "過渡句設計",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-06",
+      "name": "數據視覺化",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-07",
+      "name": "圖表分析",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-08",
+      "name": "語言學習i+1",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-09",
+      "name": "作文批改",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-10",
+      "name": "語言角色扮演",
+      "category": "learning",
+      "fields": 5,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-11",
+      "name": "自主學習計畫",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-12",
+      "name": "學習成果反思",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-13",
+      "name": "多元表現紀錄",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-14",
+      "name": "生涯諮商訪談",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-15",
+      "name": "費曼學習法",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "learning-16",
+      "name": "會考學測複習",
+      "category": "learning",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-01",
+      "name": "CEFR分級教案",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-02",
+      "name": "語法點教學設計",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-03",
+      "name": "詞彙教學活動",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-04",
+      "name": "聽力訓練設計",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-05",
+      "name": "口說練習設計",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-06",
+      "name": "閱讀理解教學",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-07",
+      "name": "寫作教學方案",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-08",
+      "name": "漢字教學策略",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-09",
+      "name": "文化融入教學",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-10",
+      "name": "差異化華語教學",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-11",
+      "name": "華語測驗設計",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-12",
+      "name": "華語遊戲化活動",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-13",
+      "name": "華語偏誤分析",
+      "category": "mandarin",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-14",
+      "name": "主題式華語教案",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-15",
+      "name": "華語測驗",
+      "category": "mandarin",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "mandarin-16",
+      "name": "TOCFL備考計畫",
+      "category": "mandarin",
+      "fields": 5,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-01",
+      "name": "綜合報告生成",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-02",
+      "name": "學術來源分析",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-03",
+      "name": "統計數據整理",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-04",
+      "name": "多方觀點梳理",
+      "category": "research",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-05",
+      "name": "科學議題辯論",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-06",
+      "name": "理論發展脈絡",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-07",
+      "name": "歷史年表製作",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-08",
+      "name": "研究方法比較",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-09",
+      "name": "政策影響分析",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-10",
+      "name": "論點支持證據",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-11",
+      "name": "人物貢獻研究",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-12",
+      "name": "技術演進歷程",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-13",
+      "name": "概念演變追蹤",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-14",
+      "name": "地理區域分析",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-15",
+      "name": "論文深度分析",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "research-16",
+      "name": "教學主題資料包",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-01",
+      "name": "互動測驗小工具",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-02",
+      "name": "班級抽籤轉盤",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-03",
+      "name": "教學計時器",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-04",
+      "name": "座位表產生器",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-05",
+      "name": "記憶配對遊戲",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-06",
+      "name": "即時投票工具",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-07",
+      "name": "單字閃卡練習",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-08",
+      "name": "數學闖關練習",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-09",
+      "name": "隨機分組工具",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-10",
+      "name": "學習評量回饋板",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-11",
+      "name": "概念動態視覺化",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-12",
+      "name": "GAS 自動化任務",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-13",
+      "name": "Python互動學習",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-14",
+      "name": "HTML網頁製作",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-15",
+      "name": "API呼叫範例",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-16",
+      "name": "SDD通用小工具",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-17",
+      "name": "教學互動模擬器",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "coding-18",
+      "name": "課堂計分板",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-01",
+      "name": "班服設計",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-02",
+      "name": "吉祥物設計",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-03",
+      "name": "公仔設計",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-04",
+      "name": "歷史場景模擬",
+      "category": "images",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-05",
+      "name": "詩詞視覺化",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-06",
+      "name": "文創商品設計",
+      "category": "images",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-07",
+      "name": "節慶裝飾設計",
+      "category": "images",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-08",
+      "name": "校園標誌設計",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-09",
+      "name": "主題插畫設計",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-10",
+      "name": "畢業紀念設計",
+      "category": "images",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-11",
+      "name": "活動視覺規劃",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-12",
+      "name": "角色扮演設計",
+      "category": "images",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-13",
+      "name": "空間美化設計",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-14",
+      "name": "數位媒體設計",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-15",
+      "name": "手工藝品設計",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-16",
+      "name": "學習單繪製",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-17",
+      "name": "學習筆記繪製",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "images-18",
+      "name": "行政海報繪製",
+      "category": "images",
+      "fields": 7,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-01",
+      "name": "數學思維引導",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-02",
+      "name": "科學實驗思考",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-03",
+      "name": "歷史批判思考",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-04",
+      "name": "文學閱讀理解",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-05",
+      "name": "英語文法思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-06",
+      "name": "程式邏輯思考",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-07",
+      "name": "化學分子思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-08",
+      "name": "地理空間思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-09",
+      "name": "物理概念建構",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-10",
+      "name": "生物系統思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-11",
+      "name": "經濟分析思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-12",
+      "name": "藝術鑑賞思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-13",
+      "name": "哲學思辨引導",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-14",
+      "name": "媒體識讀思維",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-15",
+      "name": "語言學習策略",
+      "category": "study",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "study-16",
+      "name": "教師備課預演",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-01",
+      "name": "3D 分子結構",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-02",
+      "name": "物理參數模擬",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-03",
+      "name": "函數圖形探索",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-04",
+      "name": "天文與季節",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-05",
+      "name": "生物系統 3D",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-06",
+      "name": "統計機率模擬",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-07",
+      "name": "供需曲線",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-08",
+      "name": "地形與板塊",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-09",
+      "name": "歷史互動時間軸",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "visual-10",
+      "name": "數據互動圖表",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-01",
+      "name": "時事教案查證",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-02",
+      "name": "教育政策更新",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-03",
+      "name": "法規版本核對",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-04",
+      "name": "媒體標題查核",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-05",
+      "name": "地方教學資源",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-06",
+      "name": "統計原始來源",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-07",
+      "name": "多來源交叉查證",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-08",
+      "name": "課程素材授權",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-09",
+      "name": "科學新知閱讀包",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-10",
+      "name": "升學資訊核對",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-11",
+      "name": "雙語資料查證",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "search-12",
+      "name": "數位工具現況",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-01",
+      "name": "匿名成績診斷",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-02",
+      "name": "試題分析",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-03",
+      "name": "問卷結果整理",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-04",
+      "name": "前後測比較",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-05",
+      "name": "評分一致性",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-06",
+      "name": "出缺勤趨勢",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-07",
+      "name": "閱讀紀錄分析",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-08",
+      "name": "預算執行分析",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-09",
+      "name": "活動回饋分析",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-10",
+      "name": "課表衝突檢查",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-11",
+      "name": "多文件比較",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-12",
+      "name": "PDF表格核對",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-13",
+      "name": "資料清理計畫",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-14",
+      "name": "教學圖表選擇",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-15",
+      "name": "成果指標核對",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "data-16",
+      "name": "分析可重現交接",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-01",
+      "name": "學期備課啟動",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-02",
+      "name": "單元共備",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-03",
+      "name": "行政專案追蹤",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-04",
+      "name": "教學研究紀錄",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-05",
+      "name": "跨對話摘要",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-06",
+      "name": "專案資料索引",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-07",
+      "name": "研習成果落地",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-08",
+      "name": "畢業活動協作",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-09",
+      "name": "學習歷程整理",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-10",
+      "name": "教材版本比對",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-11",
+      "name": "專案風險盤點",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "projects-12",
+      "name": "學期專案交接",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-01",
+      "name": "教案協作改寫",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-02",
+      "name": "公文精修",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-03",
+      "name": "長篇報告結構",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-04",
+      "name": "親師信件調整",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-05",
+      "name": "學生寫作回饋",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-06",
+      "name": "研究摘要修訂",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-07",
+      "name": "雙語文件對照",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-08",
+      "name": "閱讀文本分級",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-09",
+      "name": "簡報講稿協作",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-10",
+      "name": "評分規準精修",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-11",
+      "name": "無障礙文字改善",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "zh",
+      "id": "writing-12",
+      "name": "定稿一致性檢查",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-01",
+      "name": "Inquiry-Based Course",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-02",
+      "name": "Differentiated Text",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-03",
+      "name": "Tiered Assignment Design",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-04",
+      "name": "Gamified Teaching",
+      "category": "teaching",
+      "fields": 5,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-05",
+      "name": "Rubric Design",
+      "category": "teaching",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-06",
+      "name": "Student Feedback Writing",
+      "category": "teaching",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-07",
+      "name": "ADDIE Instructional Design",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-08",
+      "name": "Worksheet Design",
+      "category": "teaching",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-09",
+      "name": "Bloom's Questioning",
+      "category": "teaching",
+      "fields": 1,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-10",
+      "name": "Classroom Management Strategy",
+      "category": "teaching",
+      "fields": 1,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-11",
+      "name": "Project Topic Suggestions",
+      "category": "teaching",
+      "fields": 1,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "teaching-12",
+      "name": "Exam Blueprint",
+      "category": "teaching",
+      "fields": 5,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-01",
+      "name": "Parent Letter",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-02",
+      "name": "Parent Night Talk",
+      "category": "parents",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-03",
+      "name": "Class Group Announcement",
+      "category": "parents",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-04",
+      "name": "Individual Student Concern",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-05",
+      "name": "Responding to Upset Parents",
+      "category": "parents",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-06",
+      "name": "Absence and Lateness Notice",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-07",
+      "name": "Explaining Grades to Parents",
+      "category": "parents",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-08",
+      "name": "Event Notice and Consent Form",
+      "category": "parents",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-09",
+      "name": "Counselling or Special Ed Referral",
+      "category": "parents",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "parents-10",
+      "name": "End-of-Term Thank-You Letter",
+      "category": "parents",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-01",
+      "name": "Official Document",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-02",
+      "name": "SOP Design",
+      "category": "admin",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-03",
+      "name": "School Announcement",
+      "category": "admin",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-04",
+      "name": "Meeting Minutes",
+      "category": "admin",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-05",
+      "name": "Grant Proposal",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-06",
+      "name": "Programme Report",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-07",
+      "name": "Event Plan",
+      "category": "admin",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-08",
+      "name": "Workshop Approval and Invitation",
+      "category": "admin",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-09",
+      "name": "Expense Claim Explanation",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-10",
+      "name": "School Evaluation Evidence",
+      "category": "admin",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-11",
+      "name": "Education Law Explainer",
+      "category": "admin",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "admin-12",
+      "name": "Campus Crisis Statement",
+      "category": "admin",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-01",
+      "name": "Multi-Perspective Comparison",
+      "category": "learning",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-02",
+      "name": "Interdisciplinary Integration",
+      "category": "learning",
+      "fields": 5,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-03",
+      "name": "Thesis Outline Design",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-04",
+      "name": "Thesis Statement Writing",
+      "category": "learning",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-05",
+      "name": "Transition Sentence Design",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-06",
+      "name": "Data Visualization",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-07",
+      "name": "Chart Analysis",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-08",
+      "name": "Language Learning i+1",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-09",
+      "name": "Essay Correction",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-10",
+      "name": "Language Role-Play",
+      "category": "learning",
+      "fields": 5,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-11",
+      "name": "Self-Directed Learning Plan",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-12",
+      "name": "Learning Outcome Reflection",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-13",
+      "name": "Diverse Performance Record",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-14",
+      "name": "Career Counseling Interview",
+      "category": "learning",
+      "fields": 2,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-15",
+      "name": "Feynman Learning Technique",
+      "category": "learning",
+      "fields": 1,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "learning-16",
+      "name": "Exam Revision Plan",
+      "category": "learning",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-01",
+      "name": "CEFR-Based Lesson Plan",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-02",
+      "name": "Grammar Teaching Design",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-03",
+      "name": "Vocabulary Teaching Activity",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-04",
+      "name": "Listening Training Design",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-05",
+      "name": "Speaking Practice Design",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-06",
+      "name": "Reading Comprehension Teaching",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-07",
+      "name": "Writing Teaching Plan",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-08",
+      "name": "Chinese Character Teaching Strategy",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-09",
+      "name": "Culture-Integrated Teaching",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-10",
+      "name": "Differentiated Chinese Teaching",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-11",
+      "name": "Chinese Assessment Design",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-12",
+      "name": "Gamified Chinese Activity",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-13",
+      "name": "Chinese Error Analysis",
+      "category": "mandarin",
+      "fields": 4,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-14",
+      "name": "Theme-Based Chinese Lesson",
+      "category": "mandarin",
+      "fields": 2,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-15",
+      "name": "Chinese Skills Test",
+      "category": "mandarin",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "mandarin-16",
+      "name": "TOCFL Prep Plan",
+      "category": "mandarin",
+      "fields": 5,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-01",
+      "name": "Comprehensive Report Generation",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-02",
+      "name": "Academic Source Analysis",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-03",
+      "name": "Statistical Data Organization",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-04",
+      "name": "Multi-View Analysis",
+      "category": "research",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-05",
+      "name": "Scientific Issue Debate",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-06",
+      "name": "Theory Development Context",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-07",
+      "name": "Historical Timeline Creation",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-08",
+      "name": "Research Method Comparison",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-09",
+      "name": "Policy Impact Analysis",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-10",
+      "name": "Argument Supporting Evidence",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-11",
+      "name": "Figure Contribution Study",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-12",
+      "name": "Technology Evolution Process",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-13",
+      "name": "Concept Evolution Tracking",
+      "category": "research",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-14",
+      "name": "Geographic Area Analysis",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-15",
+      "name": "Paper In-Depth Analysis",
+      "category": "research",
+      "fields": 1,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "research-16",
+      "name": "Teaching Topic Source Pack",
+      "category": "research",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-01",
+      "name": "Interactive Quiz Builder",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-02",
+      "name": "Class Random Picker",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-03",
+      "name": "Classroom Timer",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-04",
+      "name": "Seating Chart Generator",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-05",
+      "name": "Memory Matching Game",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-06",
+      "name": "Live Voting Tool",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-07",
+      "name": "Flashcard Practice",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-08",
+      "name": "Math Challenge Game",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-09",
+      "name": "Random Group Maker",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-10",
+      "name": "Learning Feedback Board",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-11",
+      "name": "Concept Animation Visualizer",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-12",
+      "name": "Google Apps Script Tasks",
+      "category": "coding",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-13",
+      "name": "Python Interactive Learning",
+      "category": "coding",
+      "fields": 2,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-14",
+      "name": "HTML Web Development",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-15",
+      "name": "API Call Example",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-16",
+      "name": "SDD Tool Starter",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-17",
+      "name": "Interactive Simulator",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "coding-18",
+      "name": "Classroom Scoreboard",
+      "category": "coding",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-01",
+      "name": "Class T-Shirt Design",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-02",
+      "name": "Mascot Design",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-03",
+      "name": "Figure Design",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-04",
+      "name": "Historical Scene Simulation",
+      "category": "images",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-05",
+      "name": "Poetry Visualization",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-06",
+      "name": "Cultural Product Design",
+      "category": "images",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-07",
+      "name": "Festival Decoration Design",
+      "category": "images",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-08",
+      "name": "Campus Logo Design",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-09",
+      "name": "Theme Illustration Design",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-10",
+      "name": "Graduation Memorial Design",
+      "category": "images",
+      "fields": 5,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-11",
+      "name": "Event Visual Planning",
+      "category": "images",
+      "fields": 6,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-12",
+      "name": "Role-Playing Design",
+      "category": "images",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-13",
+      "name": "Space Beautification Design",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-14",
+      "name": "Digital Media Design",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-15",
+      "name": "Handicraft Design",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-16",
+      "name": "Worksheet Drawing",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-17",
+      "name": "Study Notes Drawing",
+      "category": "images",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "images-18",
+      "name": "Administrative Poster Drawing",
+      "category": "images",
+      "fields": 7,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-01",
+      "name": "Math Thinking Guidance",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-02",
+      "name": "Science Experiment Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-03",
+      "name": "Historical Critical Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-04",
+      "name": "Literary Reading Comprehension",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-05",
+      "name": "English Grammar Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-06",
+      "name": "Programming Logic Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-07",
+      "name": "Chemistry Molecular Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-08",
+      "name": "Geographic Spatial Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-09",
+      "name": "Physics Concept Construction",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-10",
+      "name": "Biological System Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-11",
+      "name": "Economic Analysis Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-12",
+      "name": "Art Appreciation Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-13",
+      "name": "Philosophical Thinking Guidance",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-14",
+      "name": "Media Literacy Thinking",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-15",
+      "name": "Language Learning Strategy",
+      "category": "study",
+      "fields": 4,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "study-16",
+      "name": "Teacher Lesson Rehearsal",
+      "category": "study",
+      "fields": 3,
+      "scaffold": "adaptive-dialogue",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-01",
+      "name": "3D Molecule",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-02",
+      "name": "Physics Simulation",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-03",
+      "name": "Function Graph Explorer",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-04",
+      "name": "Astronomy and Seasons",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-05",
+      "name": "3D Biology Systems",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-06",
+      "name": "Probability Simulation",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-07",
+      "name": "Supply and Demand",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-08",
+      "name": "Landforms and Plates",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-09",
+      "name": "Interactive Timeline",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "visual-10",
+      "name": "Interactive Data Chart",
+      "category": "visual",
+      "fields": 3,
+      "scaffold": "instructional-design",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-01",
+      "name": "Current-events lesson check",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-02",
+      "name": "Education policy updates",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-03",
+      "name": "Legal version check",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-04",
+      "name": "Headline fact check",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-05",
+      "name": "Local teaching resources",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-06",
+      "name": "Original statistical sources",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-07",
+      "name": "Cross-source verification",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-08",
+      "name": "Teaching-material licensing",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-09",
+      "name": "Science news reading pack",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-10",
+      "name": "Admissions information check",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-11",
+      "name": "Bilingual source verification",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "search-12",
+      "name": "Digital tool availability",
+      "category": "search",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-01",
+      "name": "Anonymized score diagnosis",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-02",
+      "name": "Item analysis",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-03",
+      "name": "Survey results",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-04",
+      "name": "Pre/post assessment",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-05",
+      "name": "Rubric consistency",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-06",
+      "name": "Attendance trends",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-07",
+      "name": "Reading logs",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-08",
+      "name": "Budget execution",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-09",
+      "name": "Event feedback",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-10",
+      "name": "Timetable conflicts",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-11",
+      "name": "Multi-document comparison",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-12",
+      "name": "PDF table verification",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-13",
+      "name": "Data cleaning plan",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-14",
+      "name": "Instructional chart selection",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-15",
+      "name": "Outcome indicator audit",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "data-16",
+      "name": "Reproducible analysis handoff",
+      "category": "data",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-01",
+      "name": "Semester preparation kickoff",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-02",
+      "name": "Collaborative unit planning",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-03",
+      "name": "Administrative project tracking",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-04",
+      "name": "Teaching inquiry log",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-05",
+      "name": "Conversation handoff summary",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-06",
+      "name": "Project source index",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-07",
+      "name": "Workshop-to-classroom transfer",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-08",
+      "name": "Graduation project coordination",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-09",
+      "name": "Learning portfolio organization",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-10",
+      "name": "Teaching-material version comparison",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-11",
+      "name": "Project risk review",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "projects-12",
+      "name": "Semester project handover",
+      "category": "projects",
+      "fields": 3,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-01",
+      "name": "Lesson-plan revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-02",
+      "name": "Official correspondence revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-03",
+      "name": "Long report restructuring",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-04",
+      "name": "Parent-letter revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-05",
+      "name": "Student-writing feedback",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-06",
+      "name": "Research abstract revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-07",
+      "name": "Bilingual document alignment",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-08",
+      "name": "Leveled reading revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-09",
+      "name": "Presentation script revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-10",
+      "name": "Rubric wording revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-11",
+      "name": "Accessible text revision",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    },
+    {
+      "language": "en",
+      "id": "writing-12",
+      "name": "Final document consistency",
+      "category": "writing",
+      "fields": 4,
+      "scaffold": "task-workflow",
+      "structure": "passed",
+      "modelOutcome": "not-run"
+    }
+  ]
+}

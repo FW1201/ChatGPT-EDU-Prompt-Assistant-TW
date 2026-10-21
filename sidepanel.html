@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ChatGPT EDU Prompt</title><link rel="stylesheet" href="sidepanel.css"></head>
+<body>
+<header><div class="brand"><h1>ChatGPT EDU Prompt</h1></div><div class="actions"><button id="language" disabled type="button">EN</button><button id="settings" disabled class="icon" type="button"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16M8 4v6m8 4v6"/></svg></button></div></header>
+<main id="main">
+<div id="feedback" hidden role="alert"></div>
+<section id="library">
+<div class="toolbar">
+<label for="search" data-t="search" class="sr-only"></label>
+<div class="search-control"><span id="search-icon" aria-hidden="true"></span><input id="search" disabled type="search" autocomplete="off"></div>
+<label for="category" class="sr-only" data-t="category"></label>
+<div class="filter-row"><select id="category" disabled></select><button id="library-help" class="icon help-button" type="button" disabled></button></div>
+</div>
+<div id="guidance"></div>
+<div class="results-meta"><div id="count" role="status"></div></div>
+<div id="results" class="prompt-list"></div>
+</section>
+<section id="view" hidden></section>
+</main>
+<footer><div class="credit">Developed by <a href="https://www.facebook.com/Journal.of.Digital.Narrative/" target="_blank" rel="noopener noreferrer">數位敘事力期刊</a></div></footer>
+<p id="status" class="sr-only" role="status" aria-live="polite"></p>
+<dialog id="confirmation" aria-labelledby="confirm-title" aria-describedby="confirm-body"><h2 id="confirm-title"></h2><p id="confirm-body"></p><div class="actions"><button id="confirm-cancel" type="button"></button><button id="confirm-ok" type="button" class="primary"></button></div></dialog>
+<dialog id="help-dialog" aria-labelledby="help-title"><div class="help-heading"><h2 id="help-title"></h2><button id="help-close" class="icon" type="button"></button></div><div id="help-body"></div></dialog>
+<script type="module" src="sidepanel.js"></script>
+</body></html>
