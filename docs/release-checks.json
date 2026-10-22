@@ -7,13 +7,13 @@
     {"id":"static-runtime-and-content","status":"passed","evidence":"scripts/audit.mjs; docs/prompt-quality.json"},
     {"id":"all-localized-forms","status":"passed","evidence":"tests/browser-regression.cjs: 392 forms and workflows"},
     {"id":"real-unpacked-mv3","status":"passed","evidence":"tests/extension-smoke.cjs; synthetic host document"},
-    {"id":"packaged-zip-extracted-mv3","status":"passed","evidence":"16-file whitelist, CRC, manifest, bilingual counts; extracted ZIP loaded through extension-smoke.cjs"},
+    {"id":"packaged-zip-extracted-mv3","status":"passed","evidence":"19-file whitelist, CRC, manifest, PNG sizes, bilingual counts; extracted ZIP loaded through extension-smoke.cjs"},
     {"id":"official-feature-docs","status":"reviewed","evidence":"docs/feature-specs.md"},
     {"id":"signed-in-current-chatgpt","status":"partial-prior-composer-only","evidence":"docs/final-review.md; latest full native UI not retested"},
     {"id":"signed-in-two-physical-device-sync","status":"not-run","evidence":"Only two simulated Stores tested"},
     {"id":"ai-output-quality-and-classroom-efficacy","status":"not-run","evidence":"Editorial and structural review only; modelOutcome per prompt is not-run"},
     {"id":"1x-auto-migration","status":"removed","evidence":"Manual backup/export instructions replace migration"},
-    {"id":"rights-and-brand-publisher-review","status":"publisher-review","evidence":"LICENSE; THIRD_PARTY_NOTICES.md; independent original icon"},
+    {"id":"rights-and-brand-publisher-review","status":"publisher-review","evidence":"LICENSE; THIRD_PARTY_NOTICES.md; user-supplied logo"},
     {"id":"chrome-web-store-review","status":"not-submitted","evidence":"docs/chrome-web-store.md"}
   ]
 }

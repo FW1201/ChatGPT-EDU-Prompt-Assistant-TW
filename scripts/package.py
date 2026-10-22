@@ -10,6 +10,7 @@ version = manifest['version']
 runtime = ['manifest.json', '128.png', 'background.js', 'content.js',
            'sidepanel.html', 'sidepanel.css', 'sidepanel.js',
            'lib/core.js', 'lib/store.js', 'lib/i18n.js', 'icons/icon.svg',
+           'icons/icon16.png', 'icons/icon32.png', 'icons/icon48.png',
            'prompts/categories.json', 'prompts/zh.json', 'prompts/en.json',
            'LICENSE', 'THIRD_PARTY_NOTICES.md']
 dist = ROOT / 'dist'
@@ -29,8 +30,13 @@ with zipfile.ZipFile(package) as z:
     assert json.loads(z.read('manifest.json')) == manifest
     for lang in ['zh', 'en']:
         assert len(json.loads(z.read(f'prompts/{lang}.json'))) == 196
-    for ref in [manifest['side_panel']['default_path'], manifest['background']['service_worker'], *manifest['icons'].values()]:
+    for ref in [manifest['side_panel']['default_path'], manifest['background']['service_worker'], *manifest['icons'].values(), *manifest['action']['default_icon'].values()]:
         assert ref in z.namelist()
+    for size, ref in manifest['icons'].items():
+        import struct
+        image = z.read(ref)
+        assert image[:8] == b'\x89PNG\r\n\x1a\n'
+        assert struct.unpack('>II', image[16:24]) == (int(size), int(size))
 kit = dist / f'chatgpt-edu-tw-{version}-submission-kit.zip'
 documents = ['README.md', 'docs/chrome-web-store.md', 'docs/store-listing-zh.md',
              'docs/store-listing-en.md', 'docs/privacy.md', 'docs/final-review.md',

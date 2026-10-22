@@ -47,7 +47,9 @@ npm run package
 
 測試預設使用 macOS Chrome；以 `CHROME_PATH` 指定其他路徑。擴充功能實載測試須使用支援 `--load-extension` 的 Chrome for Testing／Chromium，以 `EXTENSION_CHROME_PATH` 指定路徑。可用 `PLAYWRIGHT_PATH` 指定既有 Playwright 模組位置。`QUICK=1` 只跑操作流程；完整驗證不設此變數。
 
-打包採固定白名單，16 個執行與授權檔案。`dist/chatgpt-edu-tw-2.0.0.zip` 上傳商店；`dist/chatgpt-edu-tw-2.0.0-submission-kit.zip` 是含說明與素材的提交資料包，不能當擴充功能 ZIP 上傳。雜湊在 dist/SHA256SUMS.txt。
+打包採固定白名單，19 個執行與授權檔案。`dist/chatgpt-edu-tw-2.0.0.zip` 上傳商店；`dist/chatgpt-edu-tw-2.0.0-submission-kit.zip` 是含說明與素材的提交資料包，不能當擴充功能 ZIP 上傳。雜湊在 dist/SHA256SUMS.txt。
+
+品牌原圖保留於 icons/logo-source.png。`node scripts/store-assets.cjs` 可重建 16／32／48／128px PNG 與 440×280 商店宣傳圖；原圖不進入執行 ZIP。
 
 ## 發布與隱私
 

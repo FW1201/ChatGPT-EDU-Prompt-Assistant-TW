@@ -12,9 +12,10 @@
 | docs/store-listing-zh.md、store-listing-en.md | 可貼上的商店名稱、簡短與詳細說明 |
 | docs/store-assets/promo-440x280.png | 440×280 宣傳小圖 |
 | docs/store-assets/screenshot-*.png | 1280×800 或 640×400 的實際介面截圖 |
-| 128.png | 原創教育圖示，128×128 PNG |
+| 128.png | 使用者提供的 Logo，128×128 PNG；96px 圖像與每側 16px 透明留白 |
+| icons/icon16.png、icon32.png、icon48.png | Chrome 工具列與擴充功能管理頁的對應尺寸 |
 
-執行 ZIP 僅含 16 個白名單檔案。測試、開發相依、個人操作截圖、舊版 popup、文件歷史與 Git 資料不進入執行套件。
+執行 ZIP 僅含 19 個白名單檔案。測試、開發相依、原始 Logo、個人操作截圖、舊版 popup、文件歷史與 Git 資料不進入執行套件。
 
 ## 2. 上傳前
 
@@ -22,7 +23,7 @@
 2. 在既有商店項目更新時保留原 extension ID；先由舊版匯出或另存自訂資料。2.0 不再自動遷移 1.x 網站或 popup 資料。
 3. 確認版本比商店已發布版本高。套件目前為 2.0.0；若商店已使用 2.0.0，先調高 manifest 與 package.json 版本、跑驗證並重新打包，不能只改 ZIP 名稱。
 4. 確認發布者帳號、聯絡信箱與適用地區。商店開發者帳號及費用由發布者處理。
-5. 隱私政策使用本次備份分支的公開 HTTPS 網址：`https://github.com/FW1201/ChatGPT-EDU-Prompt-Assistant-TW/blob/backup%2Fedu-prompt-2.0.0-20261022/docs/privacy.md`。提交前以未登入狀態開啟確認可讀。日後若合併至主分支，可改填正式主分支政策網址。
+5. 隱私政策使用主分支公開 HTTPS 網址：`https://github.com/FW1201/ChatGPT-EDU-Prompt-Assistant-TW/blob/main/docs/privacy.md`。提交前以未登入狀態開啟確認可讀。
 
 ## 3. Developer Dashboard
 
